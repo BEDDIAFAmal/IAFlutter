@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "71605210815",
+    "project_id": "activities-amal",
+    "storage_bucket": "activities-amal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71605210815:android:f84da2f753ea4a493bc00a",
+        "android_client_info": {
+          "package_name": "com.amal.beddiaf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAx4Epl1xeoklUqZ54qa1SukONuOecaK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71605210815:android:534f9a0ada94142b3bc00a",
+        "android_client_info": {
+          "package_name": "com.example.activity_beddiaf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAx4Epl1xeoklUqZ54qa1SukONuOecaK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
